@@ -4,7 +4,11 @@ A race of turtles!
 
 Choose your winner, and follow him to glory.
 
-To run the race, download the files and type `main.py`.
+To run the race, make sure you got the python 'turtle' module installed.
+
+If you use pip, just type  `pip install turtle`.
+
+download the files and type `main.py`.
 
 Good Luck!!!
 
